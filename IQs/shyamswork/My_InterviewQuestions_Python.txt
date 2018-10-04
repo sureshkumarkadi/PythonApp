@@ -1,0 +1,25 @@
+my python Interview Questions:
+
+SONY
+------
+1.What is Selenium Grid 
+2.What Webdriver 
+3.What is "self"
+4.What is decorater and generators
+5.what is list ,tuple and dictonery 
+6.L = [1,1,2,2,4]  o/p l=[1,2,4]
+Write a function to get the above output
+7.num = [1,4,2,7,6,8]  o/p =[1,2,4,7,6,8]
+Write a funtion to sort the numbers 
+8.In a Website there are Fields name, Address , Email Address
+How to get the Email address only ?
+9.In a website how to get the all the hyperlink ?
+10.Write and Explain the Python code for one Test Case which you developed in Project 
+11.What is API ?
+12.What is status code 501 ?
+13.Explain how you implemented API Automation using python?
+14.what are all python concepts used in your framework ?
+ 	Ex -list,tuple etc., explain them 
+15.What is Webservice
+16.What is SOAP
+17.How to open the text file and read the data from the File 
