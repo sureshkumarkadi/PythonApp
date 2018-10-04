@@ -1,0 +1,8 @@
+{
+
+"loginlink":"//div[@id='navbar']//a[@href='/sign_in']",
+"uid":"user_email",
+"pwd":"user_password"
+"submit":"//input[@type='submit']"
+
+}
